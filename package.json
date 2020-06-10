@@ -1,0 +1,14 @@
+{
+  "name": "recursion-talk",
+  "version": "1.0.0",
+  "description": "Talk and jupyter notebook exploring recursion and corecursion",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith Schulze (keith.schulze@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.692.0"
+  }
+}
